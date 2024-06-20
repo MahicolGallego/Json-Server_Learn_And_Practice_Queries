@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "json-server",
+      "author": "typicode-update-3"
+    },
+    {
+      "id": 3,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 4,
+      "title": "json-server-updated-1",
+      "author": "typicode-updated-2"
+    },
+    {
+      "id": 1,
+      "title": "Post 1-updated-again",
+      "author": "Author 1-updated"
+    },
+    {
+      "id": 6,
+      "title": "json-server-updated-1",
+      "author": "typicode-updated-2"
+    },
+    {
+      "id": 7,
+      "title": "json-server-updated-1",
+      "author": "typicode-updated-2"
+    },
+    {
+      "id": 8,
+      "title": "json-server-updated-1",
+      "author": "typicode-updated-2"
+    },
+    {
+      "id": 9,
+      "title": "json-server-updated-1",
+      "author": "typicode-updated-2"
+    },
+    {
+      "id": 10,
+      "title": "json-server-updated-1",
+      "author": "typicode-updated-2"
+    },
+    {
+      "id": 7354,
+      "title": "Post 1",
+      "author": "Author 1"
+    }
+  ],
+  "comments": [
+    {
+      "id": "3",
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": "4",
+      "body": "some comment",
+      "postId": 2
+    },
+    {
+      "id": "5",
+      "body": "some comment",
+      "postId": 2
+    },
+    {
+      "id": "6",
+      "body": "some comment",
+      "postId": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode",
+    "age": 3,
+    "city": "Paris"
+  }
+}
